@@ -78,3 +78,21 @@
 //   }while(num<20);
 //   return 0;
 // }
+
+// // Check if the number is positive or negative
+// #include <stdio.h>
+// #include <math.h>
+// int main ()
+// {
+//   int num;
+//   scanf("%d",&num);
+//   if (num>0)
+//   {
+//     printf("Number is Positive");
+//   }
+//   else
+//   {
+//     printf("Number is Negative");
+//   }
+//   return 0;
+// }
