@@ -96,3 +96,15 @@
 //   }
 //   return 0;
 // }
+
+// // Ascii value of a char
+// #include <stdio.h>
+// #include <math.h>
+// int main ()
+// {
+//   char c;
+//   printf("Enter the character\n");
+//   scanf("%c",&c);
+//   printf("ascii value of character %c is %d ",c,c);
+//   return 0;
+// }
