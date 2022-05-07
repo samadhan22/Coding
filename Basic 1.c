@@ -25,3 +25,27 @@
 //   printf("You have entered number %d",a);
 // }
 
+// // addition of two numbers
+// #include <stdio.h>
+// int main ()
+// {
+//   int a=12,b=25;
+//   int sum;
+//   sum=a+b;
+//   printf("%d",sum);
+//   return 0;
+  
+// }
+
+// // Substract two numbers without using substraction symbol
+// #include <stdio.h>
+// int main ()
+// {
+//   int a=12,b=25;
+//   int sum,c;
+//   c=~a;
+//   printf("~a=%d\n",c);
+//   sum=~a+b+1;
+//   printf("sum=%d\n",sum);
+//   return 0;
+// }
