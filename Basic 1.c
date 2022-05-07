@@ -49,3 +49,32 @@
 //   printf("sum=%d\n",sum);
 //   return 0;
 // }
+
+// // Find Square root of number
+// #include <stdio.h>
+// #include <math.h>
+// int main ()
+// {
+//   int a=36;
+//   printf("square root = %f , %d \n",sqrt(a),sqrt(a));
+//   return 0;
+// }
+
+// // Break Keyword
+// #include <stdio.h>
+// #include <math.h>
+// int main ()
+// {
+//   int num=10;
+//   do 
+//   {
+//     printf("Number is %d \n",num);
+//     num=num+1;
+//     if (num>15)
+//     {
+//       break;
+//     }
+
+//   }while(num<20);
+//   return 0;
+// }
